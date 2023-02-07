@@ -1,7 +1,5 @@
 <h1>H3 Attaaack </h3>
 
-<h2>x) Read and summarize</h2>
-
 <h3>ATT&CK Framework</h3>
 
 - Model for studying activities that a threat actor is cabale of doing to infiltrate and oparate inside an enterprise environment.
